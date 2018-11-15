@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhhhhhhhhh
 hhhhhhhhhhhhhhhhhhhhhhhhhhh
 =======
@@ -8,3 +9,7 @@ dev2dev2dev2
 dev2dev2dev2dev2
 bbb
 >>>>>>> origin/dev
+=======
+hhhhhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> refs/remotes/origin/master

@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhhhhhhhhh
 hhhhhhhhhhhhhhhhhhhhhhhhhhh
+=======
+dev2
+dev2dev2
+dev2dev2dev2
+dev2dev2dev2dev2
+bbb
+>>>>>>> origin/dev
